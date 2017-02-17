@@ -1,0 +1,6 @@
+print "Testing Python"
+print "i want to get another job in chennai"
+print " God has to help for this to me " 
+print "if god thinks only i can get another good job in chennai"
+print "God please help me "
+print " If i would have done any mistake please forgive me " 
